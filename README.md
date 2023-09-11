@@ -7,3 +7,5 @@ Veebirakenduste asjad siin
 -git commit -m "text"
 -git push
 -git pull origin / -git fetch + -git merge
+
+muudatus
